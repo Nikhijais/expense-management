@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://expense-management-8say.onrender.com/api";
 import { useState, useEffect, createContext, useContext } from "react";
 
 // ─── API CONFIG ────────────────────────────────────────────────────────────────
